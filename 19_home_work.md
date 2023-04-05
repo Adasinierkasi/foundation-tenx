@@ -20,4 +20,6 @@
 
 ## 11.Butun sonlardan iborat 7 ta elementli massiv berilgan. Massiv elementlari tasodifiy sonlar generatori yordamida aniqlanadi. Massiv elementlarini kamayish tartibida tartiblash uchun SELECTION SORT asosida har bir qadamni alohida-alohida Excel dasturida yozing. Tekshirish uchun dastur (.cpp fayl) va excel faylni yuboring.
 
-`12.Butun sonlardan iborat 7 ta elementli massiv berilgan. Massiv elementlari tasodifiy sonlar generatori yordamida aniqlanadi. Massiv elementlarini kamayish tartibida tartiblash uchun BUBBLE SORT asosida har bir qadamni alohida-alohida Excel dasturida yozing. Tekshirish uchun dastur (.cpp fayl) va excel faylni yuboring. `
+````
+12.Butun sonlardan iborat 7 ta elementli massiv berilgan. Massiv elementlari tasodifiy sonlar generatori yordamida aniqlanadi. Massiv elementlarini kamayish tartibida tartiblash uchun BUBBLE SORT asosida har bir qadamni alohida-alohida Excel dasturida yozing. Tekshirish uchun dastur (.cpp fayl) va excel faylni yuboring. ```
+````
