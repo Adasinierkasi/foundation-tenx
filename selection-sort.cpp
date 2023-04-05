@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void insertionSort (int arr[], int arraySize) {
+void selectionSort (int arr[], int arraySize) {
   int minIdx;
   for(int i = 0; i < arraySize - 1; i++){
     minIdx = i;

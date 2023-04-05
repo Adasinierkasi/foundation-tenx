@@ -2,31 +2,27 @@
 
 using namespace std;
 
-// Insertion sort
-void sort(int arr[], int arrLength) {
-
-  for(int i = 0; i < arrLength;i++){
-
-    for(int j = i + 1; j < arrLength; j++){
-
-      if(arr[j] < arr[i]){
-
-        swap(arr[i],arr[j]);
-
-      }
-
-    }
-    
-  }
-
-  for(int i = 0; i < arrLength; i++){
-    cout << arr[i] << " ";
-  }
-
-}
 
 int main ()  {
-  int arr[] = {45,3,2,1,435454};
-  sort(arr,5);
+  // double onaTili[] =  {1,2,3,4};
+  // double matem[] =  {1,2,3,4};
+  // double tarix[] =  {1,2,3,4};
+  // double fizika[] =  {1,2,3,4};
+
+  double baholar[3][5] = {
+    {1,2,3,4},
+    {1,2,3,4},
+    {1,2,3,4}
+  };
+
+  for(int i = 0;i < 3; i++ ){
+    for(int j = 0; j < 5; j++){
+       cout << baholar[i][j] << " ";
+    }
+    cout << endl;
+  }
+
+
+
   return 0;
 }
