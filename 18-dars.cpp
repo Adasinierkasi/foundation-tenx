@@ -2,16 +2,13 @@
 
 using namespace std;
 
-// qaytadiganqiymat functionNomi() {}
 
 int main(){
-  ECHO OFF
-  ECHO OPEN Explorer
-  PAUSE
-
-
-  return 0;
+  while(muvaffaqiyatsizlik == true){
+    qaytadanHarakatQil();
+    if(vafotEtgan == true){
+      break;
+    }
+  }
 }
 
-
-// https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/
