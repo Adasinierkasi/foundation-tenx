@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     srand(time(NULL));
-    string str = "Assalomalaykum";
+    string str = "Assalom alaykum";
     string res = "";
     int i = 0;
     int strLength = str.length();
